@@ -1,6 +1,12 @@
 scetool (C) 2011-2013 by naehrwert
 NP local license handling (C) 2012 by flatz
 
+==> Compile scetool <==
+Enter same folder with MakeFile
+Write "make"
+chmod 755 if g++ not gave to scetool
+Run scetool
+
 ==> Setup <==
  - /data/keys : Keyfile.
  - /data/ldr_curves : Loader curves (7744 bytes).
